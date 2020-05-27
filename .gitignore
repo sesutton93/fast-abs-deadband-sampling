@@ -2,3 +2,4 @@ build
 .DS_Store
 __pycache__
 *.cpython-36m-darwin.so
+.ipynb_checkpoints
